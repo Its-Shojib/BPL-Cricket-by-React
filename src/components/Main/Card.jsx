@@ -1,4 +1,6 @@
-const Card = ({ player }) => {
+import PropTypes from 'prop-types';
+
+const Card = ({ player ,handleCart}) => {
     let { name, age, price, country, image_url } = player;
     return (
         <div>
@@ -12,10 +14,14 @@ const Card = ({ player }) => {
                 <p className="text-lg"><span className="text-xl font-semibold text-black">Price:</span> {price}</p>
                 <p className="text-lg"><span className="text-xl font-semibold text-black">Country:</span> {country}</p>
                 </div>
-                <button className="bg-green-600 text-white px-4 py-2 my-3">Add to Cart</button>
+                <button onClick={()=>handleCart(player)} className="bg-green-600 text-white px-4 py-2 my-3">Add to Cart</button>
             </div>
         </div>
     );
 };
+Card.propTypes = {
+    player: PropTypes.array,
+    handleCart: PropTypes.func
+}
 
 export default Card;
