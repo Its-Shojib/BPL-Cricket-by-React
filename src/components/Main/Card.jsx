@@ -4,7 +4,7 @@ const Card = ({ player ,handleCart}) => {
     let { name, age, price, country, image_url } = player;
     return (
         <div>
-            <div className="card bg-gradient-to-r from-sky-300 to-indigo-300">
+            <div className="card h-[370px] bg-gradient-to-r from-sky-300 to-indigo-300">
                 <figure className="px-2 pt-2">
                     <img src={image_url} alt={name} className=" w-40 h-40 rounded-full" />
                 </figure>
@@ -20,7 +20,7 @@ const Card = ({ player ,handleCart}) => {
     );
 };
 Card.propTypes = {
-    player: PropTypes.array,
+    player: PropTypes.object,
     handleCart: PropTypes.func
 }
 

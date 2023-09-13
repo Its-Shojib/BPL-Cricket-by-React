@@ -3,7 +3,7 @@
     "id": 14,
     "name": "Tamim Iqbal",
     "age": 32,
-    "price": 1000000,
+    "price": 100,
     "country": "Bangladesh",
     "image_url": "https://i.ibb.co/CnX2NqF/Tamim-Iqbal.jpg"
   },
@@ -11,7 +11,7 @@
     "id": 1,
     "name": "Virat Kohli",
     "age": 32,
-    "price": 2000000,
+    "price": 200,
     "country": "India",
     "image_url": "https://i.ibb.co/k0cfsvQ/vk.webp"
   },
@@ -19,7 +19,7 @@
     "id": 2,
     "name": "Kane Williamson",
     "age": 30,
-    "price": 1500000,
+    "price": 150,
     "country": "New Zealand",
     "image_url": "https://i.ibb.co/w0LgyG1/kane-williamson.jpg"
   },
@@ -27,7 +27,7 @@
     "id": 3,
     "name": "Joe Root",
     "age": 30,
-    "price": 1800000,
+    "price": 180,
     "country": "England",
     "image_url": "https://i.ibb.co/yWg80ZP/joe-root.png"
   },
@@ -35,7 +35,7 @@
     "id": 4,
     "name": "Steve Smith",
     "age": 32,
-    "price": 2200000,
+    "price": 220,
     "country": "Australia",
     "image_url": "https://i.ibb.co/pyK6rbx/steve-smith.webp"
   },
@@ -43,7 +43,7 @@
     "id": 5,
     "name": "Babar Azam",
     "age": 26,
-    "price": 1600000,
+    "price": 160,
     "country": "Pakistan",
     "image_url": "https://i.ibb.co/MydVFc2/babar.png"
   },
@@ -51,7 +51,7 @@
     "id": 6,
     "name": "Ross Taylor",
     "age": 37,
-    "price": 1200000,
+    "price": 120,
     "country": "New Zealand",
     "image_url": "https://i.ibb.co/q1TTBnG/ross-taylor.jpg"
   },
@@ -59,7 +59,7 @@
     "id": 9,
     "name": "Mushfiqur Rahim",
     "age": 33,
-    "price": 800000,
+    "price": 80,
     "country": "Bangladesh",
     "image_url": "https://i.ibb.co/KX5Vkr0/Muhsfiqur-Rahim.jpg"
   },
@@ -67,7 +67,7 @@
     "id": 10,
     "name": "Shakib Al Hasan",
     "age": 34,
-    "price": 1500000,
+    "price": 150,
     "country": "Bangladesh",
     "image_url": "https://i.ibb.co/1sL09L3/Shakib-Al-Hasan.webp"
   },
@@ -75,7 +75,7 @@
     "id": 11,
     "name": "Chris Gayle",
     "age": 42,
-    "price": 1200000,
+    "price": 120,
     "country": "West Indies",
     "image_url": "https://i.ibb.co/CbyB6vS/gayle.webp"
   },
@@ -83,7 +83,7 @@
     "id": 12,
     "name": "David Warner",
     "age": 34,
-    "price": 1900000,
+    "price": 190,
     "country": "Australia",
     "image_url": "https://i.ibb.co/tL9dMXs/DW.png"
   },
@@ -91,7 +91,7 @@
     "id": 13,
     "name": "Quinton de Kock",
     "age": 29,
-    "price": 1400000,
+    "price": 140,
     "country": "South Africa",
     "image_url": "https://i.ibb.co/0qgT2fQ/de-cock.png"
   },
@@ -99,7 +99,7 @@
     "id": 15,
     "name": "Eoin Morgan",
     "age": 35,
-    "price": 1100000,
+    "price": 110,
     "country": "England",
     "image_url": "https://i.ibb.co/fNd9FXD/morgan.webp"
   },
@@ -107,7 +107,7 @@
     "id": 7,
     "name": "Kagiso Rabada",
     "age": 26,
-    "price": 1800000,
+    "price": 180,
     "country": "South Africa",
     "image_url": "https://i.ibb.co/mhtNB9w/rabada.png"
   },
@@ -115,7 +115,7 @@
     "id": 8,
     "name": "Rashid Khan",
     "age": 22,
-    "price": 2000000,
+    "price": 200,
     "country": "Afghanistan",
     "image_url": "https://i.ibb.co/r5myqW8/rashid.webp"
   }
