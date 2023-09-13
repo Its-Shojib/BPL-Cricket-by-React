@@ -36,7 +36,7 @@ const Main = () => {
 
 
     return (
-        <div className="flex gap-5 max-w-screen-2xl mx-auto bg-[url('bg.jpg')] bg-cover bg-no-repeat bg-center px-4 md:px-8 lg:px-12">
+        <div className="flex gap-5 max-w-screen-2xl mx-auto bg-[url('../../../public/bg.jpg')] bg-cover bg-no-repeat bg-center px-4 md:px-8 lg:px-12">
             <div className="w-2/3">
                 <Cards player={player} handleCart={handleCart}></Cards>
             </div>
